@@ -1,0 +1,16 @@
+{
+  "description": "Icon in the top panel that switch audio output when clicked.",
+  "name": "gnome-shell-extension-audio-output-switcher",
+  "version": "1.0.0",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "dependencies": {
+  },
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-audio-output-switcher",
+  "uuid": "audio-output-switcher@0ct0puce.com"
+}
